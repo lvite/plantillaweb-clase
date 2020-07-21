@@ -61,6 +61,10 @@ a:hover{
     color: #d69d2a !important;
 }
 
+.green {
+    color: green !important;
+}
+
 .icon {
     font-family: "icons";
     float: left;
